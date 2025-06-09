@@ -47,6 +47,7 @@
   vertical-align: middle;
   margin-right: 10px;
   margin-bottom: 3px;
+  filter: brightness(1) contrast(1.2) saturate(1.1) hue-rotate(305deg);
 }
 
 .price:before {
